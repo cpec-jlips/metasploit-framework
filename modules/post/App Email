@@ -1,0 +1,4 @@
+webcam_listwebcam_listwebcam_list
+mv <path-to-apk>/app-release.apk <path-to-apk>/generated.apk82327ec59537b7edf388c0420a3daad26741a7cac2bb17a40ed7b369f0f38e5b
+mv <path-to-apk>/app-release.apk <path-to-apk>/generated.apkadb install <path-to-apk>/generated.apk82327ec59537b7edf388c0420a3daad26741a7cac2bb17a40ed7b369f0f38e5b
+webcam_listgenerated.apk
